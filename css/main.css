@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
+  font-family: "Merriweather", serif;
 }
 
 *, *::before, *::after {
@@ -52,6 +53,6 @@ img {
   align-items: center;
 }
 
-section {
+header {
   background-color: #d05c2e;
 }
